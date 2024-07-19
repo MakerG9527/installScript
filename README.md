@@ -19,12 +19,12 @@ To download and execute the script you can use either *wget* or *curl*, feel fre
 *wget script*
 ####  
 ```bash
-sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+sudo wget -O - https://github.com/MakerG9527/installScript/raw/master/install | sudo bash
 ```
 
 *curl script*
 ```bash
-sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+sudo curl -sSL https://github.com/MakerG9527/installScript/raw/master/install | sudo bash
 ```
 ### To skip network setup
 If you don't wanna use the network setup steps of the script, please use copy and paste the followings lines to the terminal. 
